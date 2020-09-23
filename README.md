@@ -1,2 +1,2 @@
-# nayanakp.github.io
+# geeknozy.github.io
  Personal Website
